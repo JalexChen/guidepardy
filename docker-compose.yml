@@ -1,0 +1,8 @@
+services:
+  guidepardy:
+    build: .
+    ports:
+      - "3000:3000"
+    environment:
+      - PORT=3000
+      - HOST_SECRET=guidepardy-host

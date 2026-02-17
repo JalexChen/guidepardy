@@ -1,0 +1,155 @@
+{
+  "name": "Guidepardy Board 1",
+  "categories": [
+    {
+      "name": "DevOps",
+      "tiles": [
+        {
+          "value": 100,
+          "clue": "This practice automatically merges code changes into a shared repository multiple times a day.",
+          "answer": "Continuous Integration (CI)"
+        },
+        {
+          "value": 200,
+          "clue": "This tool uses a 'Dockerfile' to define an image and 'docker-compose.yml' to orchestrate multi-container apps.",
+          "answer": "Docker"
+        },
+        {
+          "value": 400,
+          "clue": "This Kubernetes object ensures a specified number of pod replicas are always running.",
+          "answer": "a ReplicaSet"
+        },
+        {
+          "value": 800,
+          "clue": "This deployment strategy routes a small percentage of traffic to the new version before a full rollout.",
+          "answer": "a Canary deployment"
+        },
+        {
+          "value": 1000,
+          "clue": "This HashiCorp tool lets you define infrastructure as code using HCL and supports providers for AWS, Azure, and GCP.",
+          "answer": "Terraform"
+        }
+      ]
+    },
+    {
+      "name": "Software Engineering",
+      "tiles": [
+        {
+          "value": 100,
+          "clue": "This principle states that software entities should be open for extension but closed for modification.",
+          "answer": "the Open/Closed Principle"
+        },
+        {
+          "value": 200,
+          "clue": "This sorting algorithm has an average time complexity of O(n log n) and uses a divide-and-conquer approach with a pivot element.",
+          "answer": "Quicksort"
+        },
+        {
+          "value": 400,
+          "clue": "This design pattern provides a way to access elements of a collection sequentially without exposing its underlying representation.",
+          "answer": "the Iterator pattern"
+        },
+        {
+          "value": 800,
+          "clue": "This type of testing verifies that different modules or services work correctly together.",
+          "answer": "Integration testing"
+        },
+        {
+          "value": 1000,
+          "clue": "This architectural pattern separates an application into commands that change state and queries that read state, never both.",
+          "answer": "CQRS (Command Query Responsibility Segregation)"
+        }
+      ]
+    },
+    {
+      "name": "GitHub Actions",
+      "tiles": [
+        {
+          "value": 100,
+          "clue": "This YAML key in a workflow file specifies the events that trigger the workflow, such as 'push' or 'pull_request'.",
+          "answer": "on"
+        },
+        {
+          "value": 200,
+          "clue": "These are stored in a repository's settings and can be accessed in workflows using the syntax ${{ secrets.NAME }}.",
+          "answer": "GitHub Secrets"
+        },
+        {
+          "value": 400,
+          "clue": "This type of runner is hosted on your own infrastructure rather than GitHub's cloud, identified by the label 'self-hosted'.",
+          "answer": "a self-hosted runner"
+        },
+        {
+          "value": 800,
+          "clue": "This feature allows you to define reusable workflow configurations that can be called from other workflows using 'workflow_call'.",
+          "answer": "Reusable Workflows"
+        },
+        {
+          "value": 1000,
+          "clue": "This workflow strategy runs the same job multiple times with different configurations, commonly used for testing across Node versions or OS types.",
+          "answer": "a Matrix strategy"
+        }
+      ]
+    },
+    {
+      "name": "Cloud Resources",
+      "tiles": [
+        {
+          "value": 100,
+          "clue": "This AWS service provides scalable object storage and is often used to host static websites. Its Azure equivalent is Blob Storage.",
+          "answer": "Amazon S3"
+        },
+        {
+          "value": 200,
+          "clue": "This serverless compute service runs code in response to events without provisioning servers — AWS calls it Lambda, Azure calls it Functions.",
+          "answer": "serverless functions (Lambda / Azure Functions)"
+        },
+        {
+          "value": 400,
+          "clue": "This AWS service provides a managed Kubernetes control plane, while Azure offers a similar service called AKS.",
+          "answer": "Amazon EKS (Elastic Kubernetes Service)"
+        },
+        {
+          "value": 800,
+          "clue": "This type of cloud database is fully managed, scales automatically, and charges per request — DynamoDB on AWS or Cosmos DB on Azure.",
+          "answer": "a serverless NoSQL database"
+        },
+        {
+          "value": 1000,
+          "clue": "This networking construct in both AWS and Azure provides an isolated virtual network where you can launch resources with private IP addresses.",
+          "answer": "a Virtual Private Cloud (VPC) / Virtual Network (VNet)"
+        }
+      ]
+    },
+    {
+      "name": "Wildcard",
+      "tiles": [
+        {
+          "value": 100,
+          "clue": "This 1994 film starring Morgan Freeman and Tim Robbins is set primarily in a Maine prison.",
+          "answer": "The Shawshank Redemption"
+        },
+        {
+          "value": 200,
+          "clue": "This ancient wonder of the world is the only one still standing today, located on the Giza plateau in Egypt.",
+          "answer": "the Great Pyramid of Giza"
+        },
+        {
+          "value": 400,
+          "clue": "This element, with atomic number 79 and symbol Au, has been used as currency for thousands of years.",
+          "answer": "Gold"
+        },
+        {
+          "value": 800,
+          "clue": "In 1969, this Apollo mission made Neil Armstrong and Buzz Aldrin the first humans to walk on the Moon.",
+          "answer": "Apollo 11"
+        },
+        {
+          "value": 1000,
+          "clue": "This board game, originally called 'The Landlord's Game,' was patented in 1904 and is now owned by Hasbro.",
+          "answer": "Monopoly"
+        }
+      ]
+    }
+  ]
+}
