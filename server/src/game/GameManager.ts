@@ -5,7 +5,7 @@ import { Timer } from './Timer';
 import { GamePhase, PublicGameState, HostGameState } from '../types';
 
 const MAX_PLAYERS = 20;
-const BUZZ_WINDOW_MS = 100;
+const BUZZ_WINDOW_MS = 250;
 const ANSWER_TIME_SECONDS = 30;
 const SECOND_CHANCE_SECONDS = 15;
 
