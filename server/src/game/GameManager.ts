@@ -251,6 +251,15 @@ export class GameManager {
 
     this.timer.cancel();
 
+    // Deduct points from the player who answered incorrectly
+    if (this.buzzedPlayer) {
+      const player = this.players.get(this.buzzedPlayer);
+      if (player) {
+        const points = this.isDailyDouble ? this.currentValue * 2 : this.currentValue;
+        player.score -= points;
+      }
+    }
+
     if (!this.secondChanceUsed) {
       // First wrong — give second chance
       this.secondChanceUsed = true;
