@@ -1,0 +1,155 @@
+{
+  "name": "Pop Culture",
+  "categories": [
+    {
+      "name": "Movies",
+      "tiles": [
+        {
+          "value": 100,
+          "clue": "In this 1994 film, a mild-mannered man falsely convicted of murder befriends a fellow inmate and dreams of life on the Pacific coast of Mexico.",
+          "answer": "The Shawshank Redemption"
+        },
+        {
+          "value": 200,
+          "clue": "This 1999 sci-fi film follows a hacker who discovers that his entire reality is a computer simulation controlled by machines.",
+          "answer": "The Matrix"
+        },
+        {
+          "value": 400,
+          "clue": "In this 1993 Bill Murray comedy, a cynical TV weatherman relives the exact same day over and over in a small Pennsylvania town.",
+          "answer": "Groundhog Day"
+        },
+        {
+          "value": 800,
+          "clue": "This 2010 Christopher Nolan thriller centers on a team that enters people's dreams to plant an idea deep in a target's subconscious.",
+          "answer": "Inception"
+        },
+        {
+          "value": 1000,
+          "clue": "In this 1980 Kubrick horror film, a family becomes the winter caretakers of an isolated Colorado hotel with a dark history.",
+          "answer": "The Shining"
+        }
+      ]
+    },
+    {
+      "name": "Music",
+      "tiles": [
+        {
+          "value": 100,
+          "clue": "This British rock band, fronted by Freddie Mercury, released 'Bohemian Rhapsody' in 1975.",
+          "answer": "Queen"
+        },
+        {
+          "value": 200,
+          "clue": "This rapper, born Aubrey Graham in Toronto, started his career on the teen drama 'Degrassi'.",
+          "answer": "Drake"
+        },
+        {
+          "value": 400,
+          "clue": "This iconic Woodstock performer set fire to his guitar at the 1967 Monterey Pop Festival in a legendary act of showmanship.",
+          "answer": "Jimi Hendrix"
+        },
+        {
+          "value": 800,
+          "clue": "This Swedish pop group, whose name is an acronym of its four members' first names, is one of the best-selling acts of all time.",
+          "answer": "ABBA"
+        },
+        {
+          "value": 1000,
+          "clue": "This music genre, originating in Jamaica in the late 1960s, is characterized by a rhythmic accent on the offbeat known as the 'skank'.",
+          "answer": "Reggae"
+        }
+      ]
+    },
+    {
+      "name": "TV Shows",
+      "tiles": [
+        {
+          "value": 100,
+          "clue": "This long-running animated sitcom follows a yellow-skinned family in the fictional town of Springfield.",
+          "answer": "The Simpsons"
+        },
+        {
+          "value": 200,
+          "clue": "This HBO fantasy drama series, based on George R.R. Martin's novels, ended its run in 2019 after eight seasons.",
+          "answer": "Game of Thrones"
+        },
+        {
+          "value": 400,
+          "clue": "In this NBC workplace mockumentary, the staff of a Pennsylvania paper company are filmed by a documentary crew.",
+          "answer": "The Office"
+        },
+        {
+          "value": 800,
+          "clue": "This Netflix series, set in the 1980s, follows a group of kids in Hawkins, Indiana who encounter supernatural forces.",
+          "answer": "Stranger Things"
+        },
+        {
+          "value": 1000,
+          "clue": "This AMC crime drama follows a high school chemistry teacher diagnosed with cancer who begins producing illegal substances to secure his family's future.",
+          "answer": "Breaking Bad"
+        }
+      ]
+    },
+    {
+      "name": "Video Games",
+      "tiles": [
+        {
+          "value": 100,
+          "clue": "This Nintendo franchise stars an Italian plumber who rescues a princess from a spike-shelled villain named Bowser.",
+          "answer": "Super Mario"
+        },
+        {
+          "value": 200,
+          "clue": "This 2011 open-world RPG set in a snowy Nordic province lets players slay dragons and absorb their power.",
+          "answer": "The Elder Scrolls V: Skyrim"
+        },
+        {
+          "value": 400,
+          "clue": "This battle royale game, released in 2017, drops 100 players onto an island where they build structures and fight to be the last one standing.",
+          "answer": "Fortnite"
+        },
+        {
+          "value": 800,
+          "clue": "This 1998 N64 action-adventure game is frequently cited as one of the greatest ever made and pioneered Z-targeting combat.",
+          "answer": "The Legend of Zelda: Ocarina of Time"
+        },
+        {
+          "value": 1000,
+          "clue": "This 2019 FromSoftware action RPG, set in a fantastical version of the Sengoku era, is known for its brutal difficulty and precise parry mechanics.",
+          "answer": "Sekiro: Shadows Die Twice"
+        }
+      ]
+    },
+    {
+      "name": "Sports",
+      "tiles": [
+        {
+          "value": 100,
+          "clue": "This annual college football championship game takes its name from the top-ranked teams competing at the end of the season.",
+          "answer": "the Rose Bowl"
+        },
+        {
+          "value": 200,
+          "clue": "This Brazilian soccer legend, widely considered the greatest of all time, won three FIFA World Cups and scored over 1,000 career goals.",
+          "answer": "Pelé"
+        },
+        {
+          "value": 400,
+          "clue": "This tennis tournament, held annually in London, is the oldest Grand Slam and the only one played on grass.",
+          "answer": "Wimbledon"
+        },
+        {
+          "value": 800,
+          "clue": "This Chicago Bull, wearing jersey number 23, won six NBA championships and is widely regarded as the greatest basketball player ever.",
+          "answer": "Michael Jordan"
+        },
+        {
+          "value": 1000,
+          "clue": "This track and field event combines the 100m, long jump, shot put, high jump, 400m, 110m hurdles, discus, pole vault, javelin, and 1500m over two days.",
+          "answer": "the Decathlon"
+        }
+      ]
+    }
+  ]
+}

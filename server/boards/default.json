@@ -92,32 +92,32 @@
       ]
     },
     {
-      "name": "Cloud Resources",
+      "name": "Video Games",
       "tiles": [
         {
           "value": 100,
-          "clue": "This AWS service provides scalable object storage, commonly used to host static websites, with buckets as its core organizing concept.",
-          "answer": "Amazon S3"
+          "clue": "This Nintendo franchise stars an Italian plumber who rescues a princess from a spike-shelled villain named Bowser.",
+          "answer": "Super Mario"
         },
         {
           "value": 200,
-          "clue": "This compute model runs your code in response to events without requiring you to provision or manage any underlying servers.",
-          "answer": "serverless functions (Lambda / Azure Functions)"
+          "clue": "This 2011 open-world RPG set in a snowy Nordic province lets players slay dragons and absorb their power.",
+          "answer": "The Elder Scrolls V: Skyrim"
         },
         {
           "value": 400,
-          "clue": "This AWS service provides a fully managed control plane for running containerized workloads, with Azure offering a comparable service called AKS.",
-          "answer": "Amazon EKS (Elastic Kubernetes Service)"
+          "clue": "This battle royale game, released in 2017, drops 100 players onto an island where they build structures and fight to be the last one standing.",
+          "answer": "Fortnite"
         },
         {
           "value": 800,
-          "clue": "This type of cloud database is fully managed, scales automatically, and charges per request — DynamoDB on AWS or Cosmos DB on Azure.",
-          "answer": "a serverless NoSQL database"
+          "clue": "This 1998 N64 action-adventure game is frequently cited as one of the greatest ever made and pioneered Z-targeting combat.",
+          "answer": "The Legend of Zelda: Ocarina of Time"
         },
         {
           "value": 1000,
-          "clue": "This networking construct in both AWS and Azure provides an isolated virtual network where you can launch resources with private IP addresses.",
-          "answer": "a Virtual Private Cloud (VPC) / Virtual Network (VNet)"
+          "clue": "This 2019 FromSoftware action RPG, set in a fantastical version of the Sengoku era, is known for its brutal difficulty and precise parry mechanics.",
+          "answer": "Sekiro: Shadows Die Twice"
         }
       ]
     },
