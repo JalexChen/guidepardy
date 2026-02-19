@@ -6,12 +6,12 @@
       "tiles": [
         {
           "value": 100,
-          "clue": "This practice automatically merges code changes into a shared repository multiple times a day.",
+          "clue": "This practice involves frequently merging code changes into a shared repository to detect bugs early.",
           "answer": "Continuous Integration (CI)"
         },
         {
           "value": 200,
-          "clue": "This tool uses a 'Dockerfile' to define an image and 'docker-compose.yml' to orchestrate multi-container apps.",
+          "clue": "This containerization platform uses layered images and a YAML-based compose file to orchestrate multi-container apps.",
           "answer": "Docker"
         },
         {
@@ -32,32 +32,32 @@
       ]
     },
     {
-      "name": "Software Engineering",
+      "name": "Movies",
       "tiles": [
         {
           "value": 100,
-          "clue": "This principle states that software entities should be open for extension but closed for modification.",
-          "answer": "the Open/Closed Principle"
+          "clue": "In this 1994 film, a mild-mannered man falsely convicted of murder befriends a fellow inmate and dreams of life on the Pacific coast of Mexico.",
+          "answer": "The Shawshank Redemption"
         },
         {
           "value": 200,
-          "clue": "This sorting algorithm has an average time complexity of O(n log n) and uses a divide-and-conquer approach with a pivot element.",
-          "answer": "Quicksort"
+          "clue": "This 1999 sci-fi film follows a hacker who discovers that his entire reality is a computer simulation controlled by machines.",
+          "answer": "The Matrix"
         },
         {
           "value": 400,
-          "clue": "This design pattern provides a way to access elements of a collection sequentially without exposing its underlying representation.",
-          "answer": "the Iterator pattern"
+          "clue": "In this 1993 Bill Murray comedy, a cynical TV weatherman relives the exact same day over and over in a small Pennsylvania town.",
+          "answer": "Groundhog Day"
         },
         {
           "value": 800,
-          "clue": "This type of testing verifies that different modules or services work correctly together.",
-          "answer": "Integration testing"
+          "clue": "This 2010 Christopher Nolan thriller centers on a team that enters people's dreams to plant an idea deep in a target's subconscious.",
+          "answer": "Inception"
         },
         {
           "value": 1000,
-          "clue": "This architectural pattern separates an application into commands that change state and queries that read state, never both.",
-          "answer": "CQRS (Command Query Responsibility Segregation)"
+          "clue": "In this 1980 Kubrick horror film, a family becomes the winter caretakers of an isolated Colorado hotel with a dark history.",
+          "answer": "The Shining"
         }
       ]
     },
@@ -66,22 +66,22 @@
       "tiles": [
         {
           "value": 100,
-          "clue": "This YAML key in a workflow file specifies the events that trigger the workflow, such as 'push' or 'pull_request'.",
+          "clue": "This YAML key in a CI/CD pipeline file specifies the events that trigger the pipeline, such as 'push' or 'pull_request'.",
           "answer": "on"
         },
         {
           "value": 200,
-          "clue": "These are stored in a repository's settings and can be accessed in workflows using the syntax ${{ secrets.NAME }}.",
+          "clue": "These encrypted values are stored in a repository's settings and injected into pipelines at runtime using the syntax ${{ secrets.NAME }}.",
           "answer": "GitHub Secrets"
         },
         {
           "value": 400,
-          "clue": "This type of runner is hosted on your own infrastructure rather than GitHub's cloud, identified by the label 'self-hosted'.",
+          "clue": "This type of CI/CD runner is hosted on your own infrastructure rather than a cloud provider's machines.",
           "answer": "a self-hosted runner"
         },
         {
           "value": 800,
-          "clue": "This feature allows you to define reusable workflow configurations that can be called from other workflows using 'workflow_call'.",
+          "clue": "This feature lets you extract a common pipeline configuration into a standalone file that other pipelines can call via 'workflow_call'.",
           "answer": "Reusable Workflows"
         },
         {
@@ -92,32 +92,32 @@
       ]
     },
     {
-      "name": "Cloud Resources",
+      "name": "Video Games",
       "tiles": [
         {
           "value": 100,
-          "clue": "This AWS service provides scalable object storage and is often used to host static websites. Its Azure equivalent is Blob Storage.",
-          "answer": "Amazon S3"
+          "clue": "This Nintendo franchise stars an Italian plumber who rescues a princess from a spike-shelled villain named Bowser.",
+          "answer": "Super Mario"
         },
         {
           "value": 200,
-          "clue": "This serverless compute service runs code in response to events without provisioning servers — AWS calls it Lambda, Azure calls it Functions.",
-          "answer": "serverless functions (Lambda / Azure Functions)"
+          "clue": "This 2011 open-world RPG set in a snowy Nordic province lets players slay dragons and absorb their power.",
+          "answer": "The Elder Scrolls V: Skyrim"
         },
         {
           "value": 400,
-          "clue": "This AWS service provides a managed Kubernetes control plane, while Azure offers a similar service called AKS.",
-          "answer": "Amazon EKS (Elastic Kubernetes Service)"
+          "clue": "This battle royale game, released in 2017, drops 100 players onto an island where they build structures and fight to be the last one standing.",
+          "answer": "Fortnite"
         },
         {
           "value": 800,
-          "clue": "This type of cloud database is fully managed, scales automatically, and charges per request — DynamoDB on AWS or Cosmos DB on Azure.",
-          "answer": "a serverless NoSQL database"
+          "clue": "This 1998 N64 action-adventure game is frequently cited as one of the greatest ever made and pioneered Z-targeting combat.",
+          "answer": "The Legend of Zelda: Ocarina of Time"
         },
         {
           "value": 1000,
-          "clue": "This networking construct in both AWS and Azure provides an isolated virtual network where you can launch resources with private IP addresses.",
-          "answer": "a Virtual Private Cloud (VPC) / Virtual Network (VNet)"
+          "clue": "This 2019 FromSoftware action RPG, set in a fantastical version of the Sengoku era, is known for its brutal difficulty and precise parry mechanics.",
+          "answer": "Sekiro: Shadows Die Twice"
         }
       ]
     },
@@ -126,8 +126,8 @@
       "tiles": [
         {
           "value": 100,
-          "clue": "This 1994 film starring Morgan Freeman and Tim Robbins is set primarily in a Maine prison.",
-          "answer": "The Shawshank Redemption"
+          "clue": "This gas giant is the largest planet in our solar system and has a storm larger than Earth that has lasted for centuries.",
+          "answer": "Jupiter"
         },
         {
           "value": 200,

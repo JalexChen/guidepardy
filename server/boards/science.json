@@ -1,0 +1,155 @@
+{
+  "name": "Science & Nature",
+  "categories": [
+    {
+      "name": "Space",
+      "tiles": [
+        {
+          "value": 100,
+          "clue": "This gas giant is the largest planet in our solar system and has a storm larger than Earth that has lasted for centuries.",
+          "answer": "Jupiter"
+        },
+        {
+          "value": 200,
+          "clue": "This region of spacetime has gravity so strong that nothing, not even light, can escape once it crosses the event horizon.",
+          "answer": "a Black Hole"
+        },
+        {
+          "value": 400,
+          "clue": "This term describes the reddening of light from distant galaxies, providing key evidence that the universe is expanding.",
+          "answer": "Redshift"
+        },
+        {
+          "value": 800,
+          "clue": "This NASA space telescope, launched in 1990 and repaired by astronauts in 1993, revolutionized our view of the cosmos.",
+          "answer": "the Hubble Space Telescope"
+        },
+        {
+          "value": 1000,
+          "clue": "This hypothetical form of matter is thought to make up about 27% of the universe, detectable only through its gravitational effects.",
+          "answer": "Dark Matter"
+        }
+      ]
+    },
+    {
+      "name": "Chemistry",
+      "tiles": [
+        {
+          "value": 100,
+          "clue": "This element, number 1 on the periodic table, is the most abundant in the universe and fuels stars through fusion.",
+          "answer": "Hydrogen"
+        },
+        {
+          "value": 200,
+          "clue": "This bond forms when atoms share electrons, as opposed to transferring them completely.",
+          "answer": "a Covalent Bond"
+        },
+        {
+          "value": 400,
+          "clue": "This process by which a solid turns directly into a gas without passing through a liquid state is used to make dry ice 'smoke'.",
+          "answer": "Sublimation"
+        },
+        {
+          "value": 800,
+          "clue": "This number, approximately 6.022 × 10²³, represents the quantity of particles in one mole of a substance.",
+          "answer": "Avogadro's Number"
+        },
+        {
+          "value": 1000,
+          "clue": "This quantum mechanical principle states that you cannot simultaneously know both the exact position and momentum of a particle.",
+          "answer": "the Heisenberg Uncertainty Principle"
+        }
+      ]
+    },
+    {
+      "name": "Biology",
+      "tiles": [
+        {
+          "value": 100,
+          "clue": "This organelle, found in plant cells but not animal cells, captures sunlight to produce energy-rich sugars.",
+          "answer": "the Chloroplast"
+        },
+        {
+          "value": 200,
+          "clue": "This double-helix molecule carries the genetic instructions for the development and functioning of all known living organisms.",
+          "answer": "DNA"
+        },
+        {
+          "value": 400,
+          "clue": "This process, proposed by Charles Darwin, describes how traits that improve survival become more common over successive generations.",
+          "answer": "Natural Selection"
+        },
+        {
+          "value": 800,
+          "clue": "This type of RNA carries amino acids to the ribosome during protein synthesis, matching codons on messenger RNA.",
+          "answer": "tRNA (Transfer RNA)"
+        },
+        {
+          "value": 1000,
+          "clue": "This phenomenon occurs when two unrelated species independently evolve similar traits due to similar environmental pressures.",
+          "answer": "Convergent Evolution"
+        }
+      ]
+    },
+    {
+      "name": "Physics",
+      "tiles": [
+        {
+          "value": 100,
+          "clue": "This law states that for every action there is an equal and opposite reaction.",
+          "answer": "Newton's Third Law"
+        },
+        {
+          "value": 200,
+          "clue": "This famous equation relates energy to mass and the speed of light, proposed by Albert Einstein in 1905.",
+          "answer": "E = mc²"
+        },
+        {
+          "value": 400,
+          "clue": "This effect describes the change in frequency of a wave as its source moves toward or away from an observer.",
+          "answer": "the Doppler Effect"
+        },
+        {
+          "value": 800,
+          "clue": "This subatomic particle, discovered in 2012 at CERN, was the last missing piece of the Standard Model and gives other particles mass.",
+          "answer": "the Higgs Boson"
+        },
+        {
+          "value": 1000,
+          "clue": "This thought experiment involves a cat that is simultaneously alive and dead until observed, illustrating quantum superposition.",
+          "answer": "Schrödinger's Cat"
+        }
+      ]
+    },
+    {
+      "name": "Human Body",
+      "tiles": [
+        {
+          "value": 100,
+          "clue": "This organ, weighing about 3 pounds, is the command center of the nervous system and consumes roughly 20% of the body's energy.",
+          "answer": "the Brain"
+        },
+        {
+          "value": 200,
+          "clue": "This protein in red blood cells binds to oxygen in the lungs and releases it to tissues throughout the body.",
+          "answer": "Hemoglobin"
+        },
+        {
+          "value": 400,
+          "clue": "This gland, often called the 'master gland', sits at the base of the brain and regulates other hormone-producing glands.",
+          "answer": "the Pituitary Gland"
+        },
+        {
+          "value": 800,
+          "clue": "This part of the immune system produces antibodies and is activated when a foreign antigen is detected.",
+          "answer": "B Cells (B Lymphocytes)"
+        },
+        {
+          "value": 1000,
+          "clue": "This energy-carrying molecule, synthesized during cellular respiration, is the primary fuel source for cellular processes.",
+          "answer": "ATP (Adenosine Triphosphate)"
+        }
+      ]
+    }
+  ]
+}
